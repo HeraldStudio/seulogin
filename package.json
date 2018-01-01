@@ -1,0 +1,24 @@
+{
+  "name": "seulogin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "seulogin.coffee",
+  "scripts": {
+    "start": "coffee seulogin.coffee"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heraldstudio/seulogin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heraldstudio/seulogin/issues"
+  },
+  "homepage": "https://github.com/heraldstudio/seulogin#readme",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "commander": "^2.12.2",
+    "readline-sync": "^1.4.7"
+  }
+}
